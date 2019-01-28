@@ -1,0 +1,202 @@
+fileFormatVersion: 2
+guid: f6829ae26f5dc02449ca1732343eeb2b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: baricentro
+    100002: Braccio IK Target.L
+    100004: Braccio IK Target.R
+    100006: collo
+    100008: Femore.L
+    100010: Femore.R
+    100012: Gamba IK Target.L
+    100014: Gamba IK Target.R
+    100016: head.001
+    100018: Mano.L
+    100020: Mano.L_end
+    100022: Mano.R
+    100024: Mano.R_end
+    100026: MimoSkeleton.001
+    100028: Omero.L
+    100030: Omero.R
+    100032: //RootNode
+    100034: Piede.L
+    100036: Piede.L_end
+    100038: Piede.R
+    100040: Piede.R_end
+    100042: root
+    100044: SchienaAlta
+    100046: SchienaBassa
+    100048: SchienaMedia
+    100050: testa
+    100052: testa_end
+    100054: Tibia.L
+    100056: Tibia.L_end
+    100058: Tibia.R
+    100060: Tibia.R_end
+    100062: Ulna.L
+    100064: Ulna.L_end
+    100066: Ulna.R
+    100068: Ulna.R_end
+    400000: baricentro
+    400002: Braccio IK Target.L
+    400004: Braccio IK Target.R
+    400006: collo
+    400008: Femore.L
+    400010: Femore.R
+    400012: Gamba IK Target.L
+    400014: Gamba IK Target.R
+    400016: head.001
+    400018: Mano.L
+    400020: Mano.L_end
+    400022: Mano.R
+    400024: Mano.R_end
+    400026: MimoSkeleton.001
+    400028: Omero.L
+    400030: Omero.R
+    400032: //RootNode
+    400034: Piede.L
+    400036: Piede.L_end
+    400038: Piede.R
+    400040: Piede.R_end
+    400042: root
+    400044: SchienaAlta
+    400046: SchienaBassa
+    400048: SchienaMedia
+    400050: testa
+    400052: testa_end
+    400054: Tibia.L
+    400056: Tibia.L_end
+    400058: Tibia.R
+    400060: Tibia.R_end
+    400062: Ulna.L
+    400064: Ulna.L_end
+    400066: Ulna.R
+    400068: Ulna.R_end
+    2100000: No Name
+    4300000: head.001
+    7400000: MimoSkeleton.001|grab
+    7400002: MimoSkeleton.001|grab.001
+    7400004: MimoSkeleton.001|MimoSkeletonAction
+    7400006: MimoSkeleton.001|walk
+    7400008: MimoSkeleton.001|walk.001
+    7400010: MimoSkeleton.001|walk40fps
+    7400012: MimoSkeleton.001|walk60fps
+    7400014: MimoSkeleton.001|walkNormal
+    9500000: //RootNode
+    13700000: head.001
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: MimoSkeleton.001|walk
+      takeName: MimoSkeleton.001|walk
+      firstFrame: 0
+      lastFrame: 71
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

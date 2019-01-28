@@ -1,0 +1,499 @@
+fileFormatVersion: 2
+guid: 89a804998b1b76a070e812a4602ca327
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Door
+    100002: lambert1
+    100004: lambert1 1
+    100006: lambert1 10
+    100008: lambert1 11
+    100010: lambert1 12
+    100012: lambert1 13
+    100014: lambert1 14
+    100016: lambert1 15
+    100018: lambert1 16
+    100020: lambert1 17
+    100022: lambert1 18
+    100024: lambert1 19
+    100026: lambert1 2
+    100028: lambert1 20
+    100030: lambert1 21
+    100032: lambert1 22
+    100034: lambert1 23
+    100036: lambert1 24
+    100038: lambert1 25
+    100040: lambert1 26
+    100042: lambert1 27
+    100044: lambert1 28
+    100046: lambert1 29
+    100048: lambert1 3
+    100050: lambert1 30
+    100052: lambert1 31
+    100054: lambert1 32
+    100056: lambert1 33
+    100058: lambert1 34
+    100060: lambert1 35
+    100062: lambert1 36
+    100064: lambert1 37
+    100066: lambert1 38
+    100068: lambert1 39
+    100070: lambert1 4
+    100072: lambert1 40
+    100074: lambert1 41
+    100076: lambert1 42
+    100078: lambert1 43
+    100080: lambert1 44
+    100082: lambert1 45
+    100084: lambert1 46
+    100086: lambert1 47
+    100088: lambert1 48
+    100090: lambert1 49
+    100092: lambert1 5
+    100094: lambert1 50
+    100096: lambert1 51
+    100098: lambert1 52
+    100100: lambert1 53
+    100102: lambert1 54
+    100104: lambert1 55
+    100106: lambert1 6
+    100108: lambert1 7
+    100110: lambert1 8
+    100112: lambert1 9
+    100114: Main Camera
+    100116: pCube11
+    100118: pCube13
+    100120: pCube14
+    100122: pCube15
+    100124: pCube17
+    100126: pCube19
+    100128: pCube2
+    100130: pCube21
+    100132: pCube22
+    100134: pCube23
+    100136: pCube24
+    100138: pCube27
+    100140: pCube4
+    100142: pCube5
+    100144: pCube7
+    100146: pCube9
+    100148: polySurface10
+    100150: polySurface12
+    100152: polySurface14
+    100154: polySurface16
+    100156: polySurface18
+    100158: polySurface22
+    100160: polySurface26
+    100162: polySurface32
+    100164: polySurface35
+    100166: polySurface36
+    100168: polySurface4
+    100170: polySurface40
+    100172: polySurface41
+    100174: polySurface42
+    100176: polySurface43
+    100178: polySurface44
+    100180: polySurface45
+    100182: polySurface46
+    100184: polySurface47
+    100186: polySurface48
+    100188: polySurface49
+    100190: polySurface50
+    100192: polySurface51
+    100194: polySurface54
+    100196: polySurface55
+    100198: polySurface56
+    100200: polySurface57
+    100202: polySurface58
+    100204: polySurface59
+    100206: polySurface6
+    100208: polySurface60
+    100210: polySurface61
+    100212: polySurface66
+    100214: polySurface67
+    100216: polySurface68
+    100218: polySurface69
+    100220: polySurface78
+    100222: polySurface8
+    100224: polySurface80
+    100226: polySurface88
+    100228: //RootNode
+    100230: Render
+    100232: Sky
+    400000: Door
+    400002: lambert1
+    400004: lambert1 1
+    400006: lambert1 10
+    400008: lambert1 11
+    400010: lambert1 12
+    400012: lambert1 13
+    400014: lambert1 14
+    400016: lambert1 15
+    400018: lambert1 16
+    400020: lambert1 17
+    400022: lambert1 18
+    400024: lambert1 19
+    400026: lambert1 2
+    400028: lambert1 20
+    400030: lambert1 21
+    400032: lambert1 22
+    400034: lambert1 23
+    400036: lambert1 24
+    400038: lambert1 25
+    400040: lambert1 26
+    400042: lambert1 27
+    400044: lambert1 28
+    400046: lambert1 29
+    400048: lambert1 3
+    400050: lambert1 30
+    400052: lambert1 31
+    400054: lambert1 32
+    400056: lambert1 33
+    400058: lambert1 34
+    400060: lambert1 35
+    400062: lambert1 36
+    400064: lambert1 37
+    400066: lambert1 38
+    400068: lambert1 39
+    400070: lambert1 4
+    400072: lambert1 40
+    400074: lambert1 41
+    400076: lambert1 42
+    400078: lambert1 43
+    400080: lambert1 44
+    400082: lambert1 45
+    400084: lambert1 46
+    400086: lambert1 47
+    400088: lambert1 48
+    400090: lambert1 49
+    400092: lambert1 5
+    400094: lambert1 50
+    400096: lambert1 51
+    400098: lambert1 52
+    400100: lambert1 53
+    400102: lambert1 54
+    400104: lambert1 55
+    400106: lambert1 6
+    400108: lambert1 7
+    400110: lambert1 8
+    400112: lambert1 9
+    400114: Main Camera
+    400116: pCube11
+    400118: pCube13
+    400120: pCube14
+    400122: pCube15
+    400124: pCube17
+    400126: pCube19
+    400128: pCube2
+    400130: pCube21
+    400132: pCube22
+    400134: pCube23
+    400136: pCube24
+    400138: pCube27
+    400140: pCube4
+    400142: pCube5
+    400144: pCube7
+    400146: pCube9
+    400148: polySurface10
+    400150: polySurface12
+    400152: polySurface14
+    400154: polySurface16
+    400156: polySurface18
+    400158: polySurface22
+    400160: polySurface26
+    400162: polySurface32
+    400164: polySurface35
+    400166: polySurface36
+    400168: polySurface4
+    400170: polySurface40
+    400172: polySurface41
+    400174: polySurface42
+    400176: polySurface43
+    400178: polySurface44
+    400180: polySurface45
+    400182: polySurface46
+    400184: polySurface47
+    400186: polySurface48
+    400188: polySurface49
+    400190: polySurface50
+    400192: polySurface51
+    400194: polySurface54
+    400196: polySurface55
+    400198: polySurface56
+    400200: polySurface57
+    400202: polySurface58
+    400204: polySurface59
+    400206: polySurface6
+    400208: polySurface60
+    400210: polySurface61
+    400212: polySurface66
+    400214: polySurface67
+    400216: polySurface68
+    400218: polySurface69
+    400220: polySurface78
+    400222: polySurface8
+    400224: polySurface80
+    400226: polySurface88
+    400228: //RootNode
+    400230: Render
+    400232: Sky
+    2300000: pCube11
+    2300002: pCube13
+    2300004: pCube14
+    2300006: pCube15
+    2300008: pCube17
+    2300010: pCube19
+    2300012: pCube2
+    2300014: pCube21
+    2300016: pCube22
+    2300018: pCube23
+    2300020: pCube24
+    2300022: pCube27
+    2300024: pCube4
+    2300026: pCube5
+    2300028: pCube7
+    2300030: pCube9
+    2300032: polySurface10
+    2300034: polySurface12
+    2300036: polySurface14
+    2300038: polySurface16
+    2300040: polySurface18
+    2300042: polySurface22
+    2300044: polySurface26
+    2300046: polySurface32
+    2300048: polySurface35
+    2300050: polySurface36
+    2300052: polySurface4
+    2300054: polySurface40
+    2300056: polySurface41
+    2300058: polySurface42
+    2300060: polySurface43
+    2300062: polySurface44
+    2300064: polySurface45
+    2300066: polySurface46
+    2300068: polySurface47
+    2300070: polySurface48
+    2300072: polySurface49
+    2300074: polySurface50
+    2300076: polySurface51
+    2300078: polySurface54
+    2300080: polySurface55
+    2300082: polySurface56
+    2300084: polySurface57
+    2300086: polySurface58
+    2300088: polySurface59
+    2300090: polySurface6
+    2300092: polySurface60
+    2300094: polySurface61
+    2300096: polySurface66
+    2300098: polySurface67
+    2300100: polySurface68
+    2300102: polySurface69
+    2300104: polySurface78
+    2300106: polySurface8
+    2300108: polySurface80
+    2300110: polySurface88
+    3300000: pCube11
+    3300002: pCube13
+    3300004: pCube14
+    3300006: pCube15
+    3300008: pCube17
+    3300010: pCube19
+    3300012: pCube2
+    3300014: pCube21
+    3300016: pCube22
+    3300018: pCube23
+    3300020: pCube24
+    3300022: pCube27
+    3300024: pCube4
+    3300026: pCube5
+    3300028: pCube7
+    3300030: pCube9
+    3300032: polySurface10
+    3300034: polySurface12
+    3300036: polySurface14
+    3300038: polySurface16
+    3300040: polySurface18
+    3300042: polySurface22
+    3300044: polySurface26
+    3300046: polySurface32
+    3300048: polySurface35
+    3300050: polySurface36
+    3300052: polySurface4
+    3300054: polySurface40
+    3300056: polySurface41
+    3300058: polySurface42
+    3300060: polySurface43
+    3300062: polySurface44
+    3300064: polySurface45
+    3300066: polySurface46
+    3300068: polySurface47
+    3300070: polySurface48
+    3300072: polySurface49
+    3300074: polySurface50
+    3300076: polySurface51
+    3300078: polySurface54
+    3300080: polySurface55
+    3300082: polySurface56
+    3300084: polySurface57
+    3300086: polySurface58
+    3300088: polySurface59
+    3300090: polySurface6
+    3300092: polySurface60
+    3300094: polySurface61
+    3300096: polySurface66
+    3300098: polySurface67
+    3300100: polySurface68
+    3300102: polySurface69
+    3300104: polySurface78
+    3300106: polySurface8
+    3300108: polySurface80
+    3300110: polySurface88
+    4300000: polySurface43
+    4300002: polySurface44
+    4300004: polySurface16
+    4300006: pCube2
+    4300008: polySurface41
+    4300010: polySurface42
+    4300012: polySurface14
+    4300014: pCube4
+    4300016: pCube5
+    4300018: polySurface47
+    4300020: polySurface48
+    4300022: polySurface12
+    4300024: pCube7
+    4300026: polySurface45
+    4300028: polySurface46
+    4300030: polySurface10
+    4300032: pCube9
+    4300034: polySurface60
+    4300036: polySurface61
+    4300038: polySurface8
+    4300040: pCube11
+    4300042: polySurface58
+    4300044: polySurface59
+    4300046: polySurface6
+    4300048: pCube13
+    4300050: pCube14
+    4300052: pCube15
+    4300054: polySurface56
+    4300056: polySurface57
+    4300058: polySurface4
+    4300060: pCube17
+    4300062: polySurface51
+    4300064: pCube19
+    4300066: polySurface49
+    4300068: polySurface50
+    4300070: polySurface18
+    4300072: pCube21
+    4300074: pCube22
+    4300076: pCube23
+    4300078: pCube24
+    4300080: polySurface22
+    4300082: polySurface36
+    4300084: polySurface35
+    4300086: polySurface26
+    4300088: polySurface40
+    4300090: polySurface32
+    4300092: pCube27
+    4300094: polySurface54
+    4300096: polySurface55
+    4300098: polySurface67
+    4300100: polySurface66
+    4300102: polySurface68
+    4300104: polySurface69
+    4300106: polySurface78
+    4300108: polySurface80
+    4300110: polySurface88
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 936750654e57d327f383c75038fe0fa5, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
